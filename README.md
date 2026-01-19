@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Batool 👋
 
-<!--
-**sheikhbatool21/sheikhbatool21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into the tech field with a focus on Excel, data analysis, and AI tools.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- MS Excel (advanced formulas & dashboards)
+- Basics of Python and SQL
+- AI tools for productivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Build practical projects
+- Shift into a tech/desk-based role
+- Grow consistently
